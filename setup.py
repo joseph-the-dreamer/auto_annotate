@@ -61,6 +61,6 @@ setup(
         'tensorflow==2.8.2',
         'Pillow==7.0.0',
         'tqdm==4.64.0',
-        'six==1.14.0'
+        'six==1.16.0'
     ]
 )
